@@ -89,4 +89,5 @@ typings/
 .code
 .vscode
 Model/Fluent/*.js
-#Common/Configuration.js
+Common/Configuration.js
+
